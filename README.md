@@ -1,6 +1,6 @@
 # Conjectura de Collatz
 You can see here in english:
-*fonte: http://en.wikipedia.org/wiki/Collatz_conjecture*
+*http://en.wikipedia.org/wiki/Collatz_conjecture*
 
 **pt-BR**:
 A seguinte sequência iterativa é definida pelo conjunto de inteiros positivos onde:
