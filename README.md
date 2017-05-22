@@ -1,4 +1,4 @@
-# Conjectura de Collatz
+# Collatz Conjecture | Conjectura de Collatz
 You can see here in english:
 *http://en.wikipedia.org/wiki/Collatz_conjecture*
 
